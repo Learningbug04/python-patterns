@@ -1,7 +1,9 @@
 python-patterns
 ===============
 
-A collection of design patterns and idioms in Python.
+파이썬 디자인 패턴과 관용구들의 모음입니다.
+개인 공부용으로써 원문은 https://github.com/faif/python-patterns를 확인해주시기 바랍니다.
+
 
 Current Patterns
 ----------------
